@@ -251,19 +251,6 @@ button:focus {
   margin-bottom: 8px;
 }
 
-.para-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  background-color: #ffffff;
-  color: #434455;
-  padding-bottom: 32px;
-  padding-right: 52px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 .photo-para {
   font-weight: 400;
   font-size: 16px;
@@ -271,9 +258,9 @@ button:focus {
   letter-spacing: 0.02em;
   background-color: #ffffff;
   color: #434455;
+  padding-bottom: 32px;
   margin-right: auto;
   margin-left: auto;
-  padding-bottom: 32px;
 }
 
 .photo-section-description {
