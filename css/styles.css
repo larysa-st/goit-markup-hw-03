@@ -350,6 +350,11 @@ button:focus {
   margin-left: auto;
   display: inline-block;
 }
+
+.footer-container {
+  padding: 100px 0 100px;
+}
+
 .page-footer {
   background-color: #2e2f42;
 }
