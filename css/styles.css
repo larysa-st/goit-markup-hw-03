@@ -207,6 +207,19 @@ button:focus {
   margin-bottom: 8px;
 }
 
+.para-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #ffffff;
+  color: #434455;
+  padding-bottom: 32px;
+  padding-right: 52px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .team-expertise-item {
   padding-top: 120px;
   width: calc((100% - 72px) / 4);
@@ -252,8 +265,14 @@ button:focus {
 }
 
 .photo-para {
-  padding-right: 52px;
-  padding-left: 52px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #ffffff;
+  color: #434455;
+  margin-right: auto;
+  margin-left: auto;
   padding-bottom: 32px;
 }
 
