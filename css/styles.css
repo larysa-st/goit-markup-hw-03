@@ -238,6 +238,8 @@ button:focus {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .title-three-text {
