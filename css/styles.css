@@ -165,7 +165,7 @@ ol {
 }
 
 /* main */
-/* team expertise */
+/* team's expertise */
 
 .visually-hidden {
   position: absolute;
@@ -187,7 +187,6 @@ ol {
 .team-expertise-list {
   display: flex;
   gap: 24px;
-  padding-bottom: 120px;
 }
 
 .title-three-text {
@@ -208,7 +207,6 @@ ol {
 }
 
 .team-expertise-item {
-  padding-top: 120px;
   width: calc((100% - 72px) / 4);
 }
 
@@ -272,7 +270,6 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -291,7 +288,6 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  padding-bottom: 120px;
 }
 
 .portfolio-container {
@@ -310,7 +306,6 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
-  padding-top: 120px;
 }
 
 .portfolio-item {
