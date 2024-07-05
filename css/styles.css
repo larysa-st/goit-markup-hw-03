@@ -60,10 +60,6 @@ ol {
   align-items: center;
 }
 
-img {
-  display: block;
-}
-
 .logo-web {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -81,14 +77,6 @@ img {
 
 .header-logo .logo-studio {
   color: #2e2f42;
-}
-
-.footer-logo .logo-studio {
-  color: #f4f4fd;
-}
-
-.logo-studio {
-  margin-right: 76px;
 }
 
 .menu-link {
@@ -124,7 +112,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding: 24px 0;
 }
 
 .contacts-info:hover,
@@ -173,12 +160,12 @@ img {
 }
 
 .button:hover,
-button:focus {
+.button:focus {
   background-color: #404bbf;
 }
 
 /* main */
-/* team's expertise */
+/* team expertise */
 
 .visually-hidden {
   position: absolute;
@@ -226,6 +213,10 @@ button:focus {
 }
 
 /* our team */
+
+img {
+  display: block;
+}
 
 .photo-list {
   display: flex;
@@ -347,6 +338,10 @@ button:focus {
 }
 
 /* footer */
+
+.footer-logo .logo-studio {
+  color: #f4f4fd;
+}
 
 .footer-text {
   color: #f4f4fd;
