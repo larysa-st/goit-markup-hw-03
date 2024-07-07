@@ -232,8 +232,6 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-top: 0;
-  margin-bottom: 8px;
 }
 
 .photo-para {
@@ -243,9 +241,6 @@ img {
   letter-spacing: 0.02em;
   background-color: #ffffff;
   color: #434455;
-  padding-bottom: 0;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .photo-section-description {
